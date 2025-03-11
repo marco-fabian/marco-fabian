@@ -4,11 +4,11 @@
 
 👋 Olá, eu sou o Marco Fabian!
 
-Sou desenvolvedor e estudante de Ciência da Computação na UFMG, natural de Guanambi-BA e atualmente morando em Belo Horizonte. Meu foco é me tornar um desenvolvedor full stack júnior, explorando diferentes tecnologias e criando soluções escaláveis.
+Sou desenvolvedor e estudante de Ciência da Computação na UFMG, natural de Guanambi-BA e atualmente morando em Belo Horizonte. Meu foco é evoluir no desenvolvimento de software, explorando diferentes tecnologias e criando soluções inovadoras.
 
 Tenho experiência e boas noções em JavaScript, Python, Java, ADVPL e SQL, e atualmente estou aprimorando minhas habilidades em Laravel, PHP e Microsoft Azure. Gosto de desafios e estou sempre buscando aprender algo novo.
 
-Atualmente, estou desenvolvendo um micro-SaaS para associações de ciclistas, usando Next.js, Tailwind CSS e Node.js.
+Atualmente, estou desenvolvendo um Micro-SaaS para associações de ciclistas, usando Next.js, Tailwind CSS e Node.js.
 
 💡 Áreas de interesse:
 
