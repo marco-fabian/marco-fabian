@@ -137,7 +137,8 @@ Atualmente, estou desenvolvendo um Micro-SaaS para associações de ciclistas, u
 
 <br/>
 <br/>
-<br/>
+
+---
 
 ### 📊 Estatísticas
 
