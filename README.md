@@ -28,19 +28,17 @@ Atualmente, estou desenvolvendo um Micro-SaaS para associações de ciclistas, u
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Spring" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
@@ -80,20 +78,6 @@ Atualmente, estou desenvolvendo um Micro-SaaS para associações de ciclistas, u
     width="30px" 
     style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
