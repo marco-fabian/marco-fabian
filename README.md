@@ -118,6 +118,22 @@ Atualmente, estou desenvolvendo um Micro-SaaS para associações de ciclistas, u
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+  align="left"
+  alt="MySQL"
+  tittle="MySQL"
+  width="30px"
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+ />
+ <img 
+  align="left"
+  alt="Docker"
+  tittle="Docker"
+  width="30px"
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"
+ />
 
 <br/>
 <br/>
